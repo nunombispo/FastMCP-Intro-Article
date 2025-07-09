@@ -2,6 +2,8 @@
 
 This repository contains examples demonstrating how to use FastMCP (Model Context Protocol) for creating MCP servers and clients. The project includes both simple and composition examples to showcase different use cases.
 
+If this script was useful to you, consider donating to support the Developer Service Blog: https://buy.stripe.com/bIYdTrggi5lZamkdQW
+
 ## What is FastMCP?
 
 FastMCP is a Python library that simplifies the creation of MCP (Model Context Protocol) servers and clients. MCP allows AI models to interact with external tools and data sources through a standardized protocol.
